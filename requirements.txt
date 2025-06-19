@@ -6,3 +6,4 @@ sacremoses
 fasttext
 numpy
 pydantic
+argostranslate
