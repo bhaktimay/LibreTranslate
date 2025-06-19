@@ -1,9 +1,4 @@
 flask
-requests
 uvicorn
 gunicorn
-sacremoses
-fasttext
-numpy
-pydantic
 argostranslate
